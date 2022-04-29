@@ -28307,6 +28307,12 @@ paths:
       tags:
         - Query
 definitions:
+  carmonasl.scavenge.scavenge.MsgCommitSolutionResponse:
+    type: object
+  carmonasl.scavenge.scavenge.MsgRevealSolutionResponse:
+    type: object
+  carmonasl.scavenge.scavenge.MsgSubmitScavengeResponse:
+    type: object
   carmonasl.scavenge.scavenge.Params:
     type: object
     description: Params defines the parameters for the module.
